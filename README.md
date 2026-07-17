@@ -17,6 +17,9 @@ Explainable Financial Fraud Detection & Network Intelligence Platform
 👉 https://nexus-fraud-intelligencezip--hazem118.replit.app
 
 ---
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 # Overview
 
